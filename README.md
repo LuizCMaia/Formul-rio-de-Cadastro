@@ -11,6 +11,9 @@ Para compilar e executar este programa, você precisa ter:
 * O JDK configurado nas variáveis de ambiente do seu sistema (para que os comandos javac e java sejam reconhecidos no terminal).
 
 # Instruções de Execução do Programa
+
+Baixar o projeto no botão "Download ZIP" e extrair o arquivo baixado.
+
 Para compilar e rodar o projeto, siga os passos abaixo:
 
 Abra o Terminal: Abra o seu terminal de linha de comando (CMD, PowerShell, Terminal, etc.).
